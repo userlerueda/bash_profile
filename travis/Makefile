@@ -2,3 +2,4 @@
 
 test:
 	tests/validate_root.sh
+
